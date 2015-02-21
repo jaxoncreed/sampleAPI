@@ -1,0 +1,27 @@
+{
+  "name": "sampleAPI",
+  "version": "0.0.0",
+  "description": "A Sample API",
+  "main": "server.js",
+  "dependencies": {
+    "restify": "^2.8.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "n/a",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaxoncreed/sampleAPI.git"
+  },
+  "keywords": [
+    "sample"
+  ],
+  "author": "Jackson Morgan <jaxoncreed@gmail.com> (http://jacksoncmorgan.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaxoncreed/sampleAPI/issues"
+  },
+  "homepage": "https://github.com/jaxoncreed/sampleAPI"
+}
