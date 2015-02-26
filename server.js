@@ -1,5 +1,6 @@
 var documentation = {
-    "name": "Sample API",
+    "name": "sampleapi",
+    "title": "Sample API",
     "description": "Use this API to test things.",
     "version": "0.0.0",
     "author": {
