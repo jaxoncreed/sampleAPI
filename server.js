@@ -32,7 +32,7 @@ var documentation = {
             "backendUrl": "/v0/addbody",
             "method": "POST",
             "uri": "/addbody",
-            "sampleUri": "/adduri",
+            "sampleUri": "/addbody",
             "bodyModel": {
                 "a": "Number",
                 "b": "Number"
