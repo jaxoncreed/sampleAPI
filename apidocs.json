@@ -17,7 +17,7 @@
             "method": "GET",
             "uri": "/hello/{name}",
             "sampleUri": "/hello/Jackson",
-            "validation": "all"
+            "validationType": "all"
         },
         {
             "name": "URI Add",
@@ -26,7 +26,7 @@
             "method": "POST",
             "uri": "/adduri/{a}/{b}",
             "sampleUri": "/adduri/3/2",
-            "validation": "all"
+            "validationType": "all"
         },
         {
             "name": "Body Add",
@@ -43,7 +43,7 @@
                 "a": 3,
                 "b": 2
             },
-            "validation": "all"
+            "validationType": "all"
         }
     ]
 }
