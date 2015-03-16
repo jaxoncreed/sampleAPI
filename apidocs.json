@@ -16,7 +16,8 @@
             "backendUrl": "/v0/hello/{name}",
             "method": "GET",
             "uri": "/hello/{name}",
-            "sampleUri": "/hello/Jackson"
+            "sampleUri": "/hello/Jackson",
+            "validation": "all"
         },
         {
             "name": "URI Add",
@@ -24,7 +25,8 @@
             "backendUrl": "/v0/adduri/{a}/{b}",
             "method": "POST",
             "uri": "/adduri/{a}/{b}",
-            "sampleUri": "/adduri/3/2"
+            "sampleUri": "/adduri/3/2",
+            "validation": "all"
         },
         {
             "name": "Body Add",
@@ -40,7 +42,8 @@
             "sampleBody": {
                 "a": 3,
                 "b": 2
-            }
+            },
+            "validation": "all"
         }
     ]
 }
